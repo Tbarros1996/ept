@@ -1,4 +1,4 @@
-# ept
+# EPT - Estado Plano de Tensões 1.0
 Algoritmo e Python para Cálculo de Estado Plano de Tensões e Deformações
 
 # Estado Plano de Tensões e Círculo de Mohr
